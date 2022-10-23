@@ -1,6 +1,6 @@
-## [Team Project] 
+# [Team Project] 
 
-### 🔎 프로젝트 명 '클레이팟 (KlayPod)'
+## 🔎 프로젝트 명 '클레이팟 (KlayPod)'
 
 ![](https://velog.velcdn.com/images/-__-/post/10d95bf0-fa27-4e8f-a2d8-288b26076bab/image.png)
 
@@ -107,5 +107,59 @@ APY / TVL 순으로 찾아주는(Search) 프로젝트입니다
 
 ---
 
+### 맡은 역할
+- 팀장
 
+Collaboration
+- 데일리 스크럼 진행
+  - 주기적으로 팀원 역할 체크 및 의견 조율 진행
+- 위클리 스크럼 진행
+  - 한주간 진행상황 공유
+- 기능별 역할 배분
 
+Crawling
+- 기능 구현
+  - Klaytn Network에서 운용중인 DeFi 사이트 필터링
+  - 5개의 Pair Pool Data 추출 및 크롤링 구현
+    - KlaySwap
+    - ClaimSwap
+    - KokonutSwap
+    - PalaSwap
+    - UFOSwap
+  - 10개의 DeFi 프로젝트 리스트, TVL, Logo 추출 및 크롤링 구현
+    - KlaySwap
+    - KokonutSwap
+    - ClaimSwap
+    - ...
+  - 30분마다 주기적으로 데이터 크롤링하도록 자동화 기능 구현
+  
+DB
+  - 추출된 데이터 가공 후 데이터 셋 제작
+  
+Contract
+  - Uniswap V2를 이용한 Swap 기능 구현
+  - POD(KlayPod 자체 토큰) 토큰 발행
+
+### Stack
+**Crawling**
+
+- Selenium
+- Python
+- Anaconda
+- MongoDB
+- Selenium
+
+**Blockchain**
+
+- Solidty
+- Klaytn Network
+- Truffle
+- Ganache
+
+**Collaboration Tool**
+
+- Github
+- Discord
+- Notion
+- Figma
+- Miro
