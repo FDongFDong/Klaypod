@@ -168,20 +168,24 @@ ___
     > 예치하고자 하는 페어 상품의 예치 버튼을 누르면 해당 링크로 새탭열기 합니다.
 
 4. 지갑 연결
-    ![지갑연결전](https://user-images.githubusercontent.com/20445415/197383436-1b2fa245-b721-48e4-bcb8-598e661f4435.gif)
-    > 지갑을 연결하기 전, 내비게이션 바의 Swap, Staking, Wallet 을 클릭하면 “지갑을 연결하세요!” 와 같은 알림창이 뜨며 해당 기능으로의 접근을 제한합니다.
+    
+  ![지갑연결전](https://user-images.githubusercontent.com/20445415/197383436-1b2fa245-b721-48e4-bcb8-598e661f4435.gif)
+  
+  > 지갑을 연결하기 전, 내비게이션 바의 Swap, Staking, Wallet 을 클릭하면 “지갑을 연결하세요!” 와 같은 알림창이 뜨며 해당 기능으로의 접근을 제한합니다.
 
-    ![카이카스지갑연결](https://user-images.githubusercontent.com/20445415/197383454-f9cd7580-a179-46f9-a39e-b0b37e1826eb.gif)
-    > 내비게이션 바의 `지갑 아이콘` 을 클릭하여 카이카스 지갑을 연결합니다.
-지갑 연결이 완료된 후에 또 한 번 `지갑 아이콘` 을 클릭하면 *“Kaikas 연결완료”* 로 변경된 글자를 확인할 수 있습니다.
+  ![카이카스지갑연결](https://user-images.githubusercontent.com/20445415/197383454-f9cd7580-a179-46f9-a39e-b0b37e1826eb.gif)
+  > 내비게이션 바의 `지갑 아이콘` 을 클릭하여 카이카스 지갑을 연결합니다.
+  > 지갑 연결이 완료된 후에 또 한 번 `지갑 아이콘` 을 클릭하면 *“Kaikas 연결완료”* 로 변경된 글자를 확인할 수 있습니다.
 
 5. 스왑/스테이킹
-    ![지갑자산확인](https://user-images.githubusercontent.com/20445415/197383496-761b37ba-d6f1-40c4-9ba4-506f7fbe806e.gif)
+  
+  ![지갑자산확인](https://user-images.githubusercontent.com/20445415/197383496-761b37ba-d6f1-40c4-9ba4-506f7fbe806e.gif)
 
-    ![지갑자산에서 스왑스테이킹이동](https://user-images.githubusercontent.com/20445415/197383519-3a85dea0-2bae-4d5c-9358-36d01ff28140.gif)
+  ![지갑자산에서 스왑스테이킹이동](https://user-images.githubusercontent.com/20445415/197383519-3a85dea0-2bae-4d5c-9358-36d01ff28140.gif)
 
 6. Docs
-![Docs이동](https://user-images.githubusercontent.com/20445415/197383571-98086076-4e66-4b04-98e4-baeca51a8fca.gif)
+
+  ![Docs이동](https://user-images.githubusercontent.com/20445415/197383571-98086076-4e66-4b04-98e4-baeca51a8fca.gif)
  
     > 클레이팟 프로젝트에 대한 문서를 확인할 수 있습니다.
 
