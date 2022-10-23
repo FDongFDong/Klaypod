@@ -150,13 +150,14 @@ ___
 
 
 3. 수익률(APR)/유동성(TVL) 조회
-
+    
     3-1 수익률(APR) 조회
     
-        ![APR 조회](https://user-images.githubusercontent.com/20445415/197382956-d3135790-2818-47f2-a89d-547bd3d621a2.gif)
-  
+      ![APR 조회](https://user-images.githubusercontent.com/20445415/197382956-d3135790-2818-47f2-a89d-547bd3d621a2.gif)
+
+
 > 페어상품을 수익률(APR)이 높은 순으로 보여줍니다.
-        페어 상품의 로고와 심볼, 프로젝트의 로고와 프로젝트 명, TVL, APR 정보를 볼 수 있습니다.
+페어 상품의 로고와 심볼, 프로젝트의 로고와 프로젝트 명, TVL, APR 정보를 볼 수 있습니다.
 
   3-2 유동성(TVL) 규모 순 조회
 
@@ -166,7 +167,7 @@ ___
   ![예치 상품 페이지로 이동](https://user-images.githubusercontent.com/20445415/197382994-5330e628-fde5-4e2f-91da-aff5f8f779fc.gif)
     > 예치하고자 하는 페어 상품의 예치 버튼을 누르면 해당 링크로 새탭열기 합니다.
 
-4. 지갑 연결
+1. 지갑 연결
     ![지갑연결전](https://user-images.githubusercontent.com/20445415/197383436-1b2fa245-b721-48e4-bcb8-598e661f4435.gif)
     > 지갑을 연결하기 전, 내비게이션 바의 Swap, Staking, Wallet 을 클릭하면 “지갑을 연결하세요!” 와 같은 알림창이 뜨며 해당 기능으로의 접근을 제한합니다.
 
