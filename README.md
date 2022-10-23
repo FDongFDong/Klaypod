@@ -73,51 +73,43 @@ APY / TVL 순으로 찾아주는(Search) 프로젝트입니다
 대시보드에서는 페어 상품 목록과 Defi 프로젝트 목록을 볼 수 있습니다.
 
 
-3. APR 조회
-![조회](https://user-images.githubusercontent.com/20445415/197382956-d3135790-2818-47f2-a89d-547bd3d621a2.gif)
+3. 수익률(APR)/유동성(TVL) 조회
+- 수익률(APR) 조회
+![APR 조회](https://user-images.githubusercontent.com/20445415/197382956-d3135790-2818-47f2-a89d-547bd3d621a2.gif)
 페어상품을 수익률(APR)이 높은 순으로 보여줍니다.
-페이지기법은 무한스크롤(커서 기반) 기법을 채택했습니다.
 페어 상품의 로고와 심볼, 프로젝트의 로고와 프로젝트 명, TVL, APR 정보를 볼 수 있습니다.
 
-  3.1 예치 버튼 클릭 -> 예치 상품 페이지로 이동
-  ![예치 상품 페이지로 이동](https://user-images.githubusercontent.com/20445415/197382994-5330e628-fde5-4e2f-91da-aff5f8f779fc.gif)
-  예치하고자 하는 페어 상품의 예치 버튼을 누르면 해당 링크로 새탭열기 합니다.
+- 유동성(TVL) 규모 순 조회
+![TVL 조회](https://user-images.githubusercontent.com/20445415/197383090-1e373294-cb61-4843-af87-a69cbec590df.gif)
 
+- 예치 버튼 클릭 -> 예치 상품 페이지로 이동
+![예치 상품 페이지로 이동](https://user-images.githubusercontent.com/20445415/197382994-5330e628-fde5-4e2f-91da-aff5f8f779fc.gif)
+예치하고자 하는 페어 상품의 예치 버튼을 누르면 해당 링크로 새탭열기 합니다.
 
-4. 프로젝트 TVL 순 조회
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ab0d7531-ab9b-4cec-88fb-403024a679cf/05-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%A1%B0%ED%9A%8C.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220802%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220802T112431Z&X-Amz-Expires=86400&X-Amz-Signature=242fcc36894bbca18e1ededb76f7e8c8c74bb31c6af8cc96e11ee7f2600f1e4f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%2205-%25ED%2594%2584%25EB%25A1%259C%25EC%25A0%259D%25ED%258A%25B8%25EC%25A1%25B0%25ED%259A%258C.gif%22&x-id=GetObject)
+   
+
+4. 지갑 연결
+- ![지갑연결전](https://user-images.githubusercontent.com/20445415/197383436-1b2fa245-b721-48e4-bcb8-598e661f4435.gif)
+지갑을 연결하기 전, 내비게이션 바의 Swap, Staking, Wallet 을 클릭하면 “지갑을 연결하세요!” 와 같은 알림창이 뜨며 해당 기능으로의 접근을 제한합니다.
+
+- ![카이카스지갑연결](https://user-images.githubusercontent.com/20445415/197383454-f9cd7580-a179-46f9-a39e-b0b37e1826eb.gif)
+내비게이션 바의 `지갑 아이콘` 을 클릭하여 카이카스 지갑을 연결합니다.
+지갑 연결이 완료된 후에 또 한 번 `지갑 아이콘` 을 클릭하면 *“Kaikas 연결완료”* 로 변경된 글자를 확인할 수 있습니다.
+
+5. 스왑/스테이킹
+![지갑자산확인](https://user-images.githubusercontent.com/20445415/197383496-761b37ba-d6f1-40c4-9ba4-506f7fbe806e.gif)
+
+![지갑자산에서 스왑스테이킹이동](https://user-images.githubusercontent.com/20445415/197383519-3a85dea0-2bae-4d5c-9358-36d01ff28140.gif)
+
+5. Docs
+![Docs이동](https://user-images.githubusercontent.com/20445415/197383571-98086076-4e66-4b04-98e4-baeca51a8fca.gif)
+ 
+클레이팟 프로젝트에 대한 문서를 확인할 수 있습니다.
 
 ---
 
 ### 참고할 만한 사이트 📃
 
-- https://defiprime.com/#defi_projects
-
-- https://www.klaylabs.net/
-
-- https://swapscanner.io/ko
-
-- https://defillama.com/
-
-- https://kr.beincrypto.com/learn-kr/89-2/
-
-- https://1inch.io/ko/
-
-- https://github.com/1inch
-
-- https://debank.com/protocol
-
-- https://claimswap.org/
-
-- https://brunch.co.kr/@sylviasolution/109
-
-- https://xangle.io/research/61d8021cd7cf330287545676
-
-- https://www.coindeskkorea.com/news/articleView.html?idxno=73680
-
-- https://soccerspen.com/ko/what-is-dex-aggregator/
-
-- https://www.coinzigzag.com/ko/1%EC%9D%B8%EC%B9%98-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EB%9E%80-1inch-%EC%BD%94%EC%9D%B8%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B5%AC%EB%A7%A4%ED%95%98%EB%82%98%EC%9A%94
 
 ---
 
