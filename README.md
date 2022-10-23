@@ -136,7 +136,8 @@ ___
 
 ## 시연 영상
 1. 메인 페이지
-  ![메인 화면 진입 및 스크롤](https://user-images.githubusercontent.com/20445415/197382762-71a4988b-ab3f-476d-935d-2a94ead3532d.gif)
+    
+    ![메인 화면 진입 및 스크롤](https://user-images.githubusercontent.com/20445415/197382762-71a4988b-ab3f-476d-935d-2a94ead3532d.gif)
     > [klaypod.com](http://klaypod.com)
 으로 들어가서 제일 처음 보이는 메인 페이지 입니다.
 `Enter App` 버튼을 누르면 대시보드와 메인 기능을 이용할 수 있고, `Docs` 버튼을 누르면 클레이팟에 대한 문서가 작성된 gitbook 페이지로 이동합니다.
