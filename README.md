@@ -1,4 +1,4 @@
-## [Project] BEB 프로젝트 #3 기획
+## [Team Project] 
 
 ### 🔎 프로젝트 명 '클레이팟 (KlayPod)'
 
