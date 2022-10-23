@@ -156,12 +156,12 @@ ___
       ![APR 조회](https://user-images.githubusercontent.com/20445415/197382956-d3135790-2818-47f2-a89d-547bd3d621a2.gif)
 
 
-> 페어상품을 수익률(APR)이 높은 순으로 보여줍니다.
-페어 상품의 로고와 심볼, 프로젝트의 로고와 프로젝트 명, TVL, APR 정보를 볼 수 있습니다.
+  > 페어상품을 수익률(APR)이 높은 순으로 보여줍니다.
+  페어 상품의 로고와 심볼, 프로젝트의 로고와 프로젝트 명, TVL, APR 정보를 볼 수 있습니다.
 
-  3-2 유동성(TVL) 규모 순 조회
+    3-2 유동성(TVL) 규모 순 조회
 
-   ![TVL 조회](https://user-images.githubusercontent.com/20445415/197383090-1e373294-cb61-4843-af87-a69cbec590df.gif)
+      ![TVL 조회](https://user-images.githubusercontent.com/20445415/197383090-1e373294-cb61-4843-af87-a69cbec590df.gif)
 
   - 예치 버튼 클릭 -> 예치 상품 페이지로 이동
   ![예치 상품 페이지로 이동](https://user-images.githubusercontent.com/20445415/197382994-5330e628-fde5-4e2f-91da-aff5f8f779fc.gif)
