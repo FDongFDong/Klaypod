@@ -144,7 +144,8 @@ ___
 스크롤을 내리면 클레이팟 프로젝트이 스캔하는 Dex 리스트, 이용할 수 있는 서비스들에 대한 설명, 그리고 클레이팟 팀과 컨택할 수 있는 링크가 있습니다.
 
 2. 대시보드 페이지
-  ![Enter App -> 대시보드 진입](https://user-images.githubusercontent.com/20445415/197382885-23733a10-c1a6-46f3-a0d8-49c03b4b3bc5.gif)
+  
+    ![Enter App -> 대시보드 진입](https://user-images.githubusercontent.com/20445415/197382885-23733a10-c1a6-46f3-a0d8-49c03b4b3bc5.gif)
     > 대시보드에서는 페어 상품 목록과 Defi 프로젝트 목록을 볼 수 있습니다.
 
 
