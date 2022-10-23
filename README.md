@@ -62,8 +62,7 @@ APY / TVL 순으로 찾아주는(Search) 프로젝트입니다
 
 ### 🎥 시연 영상!
 1. 메인 페이지와 대시보드 페이지
-![메인 페이지와 대시보드 페이지]
-](https://user-images.githubusercontent.com/20445415/197382762-71a4988b-ab3f-476d-935d-2a94ead3532d.gif)
+![메인 페이지와 대시보드 페이지](https://user-images.githubusercontent.com/20445415/197382762-71a4988b-ab3f-476d-935d-2a94ead3532d.gif)
 
 2. 수익률 순 조회
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d93ee310-0e3f-45f7-a6d9-15f819aea101/03-APR%EB%AC%B4%ED%95%9C%EC%8A%A4%ED%81%AC%EB%A1%A4.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220802%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220802T112344Z&X-Amz-Expires=86400&X-Amz-Signature=904c56260fb9acf9808a910f7e2b247c1f4b0f55a6690a435b64b7e38b46df8a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%2203-APR%25EB%25AC%25B4%25ED%2595%259C%25EC%258A%25A4%25ED%2581%25AC%25EB%25A1%25A4.gif%22&x-id=GetObject)
