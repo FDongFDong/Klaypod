@@ -73,8 +73,16 @@ APY / TVL 순으로 찾아주는(Search) 프로젝트입니다
 대시보드에서는 페어 상품 목록과 Defi 프로젝트 목록을 볼 수 있습니다.
 
 
-3. 유동성 규모 순 조회
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7b20fc8a-0448-47f1-a46a-cb0d89978994/09-TVL%EB%AC%B4%ED%95%9C%EC%8A%A4%ED%81%AC%EB%A1%A4.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220802%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220802T112420Z&X-Amz-Expires=86400&X-Amz-Signature=c29ef291abeb6b34c76382b292b10341b8505f56876a38eb9fca94d3225aed21&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%2209-TVL%25EB%25AC%25B4%25ED%2595%259C%25EC%258A%25A4%25ED%2581%25AC%25EB%25A1%25A4.gif%22&x-id=GetObject)
+3. APR 조회
+![조회](https://user-images.githubusercontent.com/20445415/197382956-d3135790-2818-47f2-a89d-547bd3d621a2.gif)
+페어상품을 수익률(APR)이 높은 순으로 보여줍니다.
+페이지기법은 무한스크롤(커서 기반) 기법을 채택했습니다.
+페어 상품의 로고와 심볼, 프로젝트의 로고와 프로젝트 명, TVL, APR 정보를 볼 수 있습니다.
+
+3.1 예치 버튼 클릭 -> 예치 상품 페이지로 이동
+![예치 상품 페이지로 이동](https://user-images.githubusercontent.com/20445415/197382994-5330e628-fde5-4e2f-91da-aff5f8f779fc.gif)
+예치하고자 하는 페어 상품의 예치 버튼을 누르면 해당 링크로 새탭열기 합니다.
+
 
 4. 프로젝트 TVL 순 조회
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ab0d7531-ab9b-4cec-88fb-403024a679cf/05-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%A1%B0%ED%9A%8C.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220802%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220802T112431Z&X-Amz-Expires=86400&X-Amz-Signature=242fcc36894bbca18e1ededb76f7e8c8c74bb31c6af8cc96e11ee7f2600f1e4f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%2205-%25ED%2594%2584%25EB%25A1%259C%25EC%25A0%259D%25ED%258A%25B8%25EC%25A1%25B0%25ED%259A%258C.gif%22&x-id=GetObject)
