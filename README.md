@@ -136,29 +136,32 @@ ___
 
 ## 시연 영상
 1. 메인 페이지
-![메인 화면 진입 및 스크롤](https://user-images.githubusercontent.com/20445415/197382762-71a4988b-ab3f-476d-935d-2a94ead3532d.gif)
+  ![메인 화면 진입 및 스크롤](https://user-images.githubusercontent.com/20445415/197382762-71a4988b-ab3f-476d-935d-2a94ead3532d.gif)
     > [klaypod.com](http://klaypod.com)
 으로 들어가서 제일 처음 보이는 메인 페이지 입니다.
 `Enter App` 버튼을 누르면 대시보드와 메인 기능을 이용할 수 있고, `Docs` 버튼을 누르면 클레이팟에 대한 문서가 작성된 gitbook 페이지로 이동합니다.
 스크롤을 내리면 클레이팟 프로젝트이 스캔하는 Dex 리스트, 이용할 수 있는 서비스들에 대한 설명, 그리고 클레이팟 팀과 컨택할 수 있는 링크가 있습니다.
 
 2. 대시보드 페이지
-![Enter App -> 대시보드 진입](https://user-images.githubusercontent.com/20445415/197382885-23733a10-c1a6-46f3-a0d8-49c03b4b3bc5.gif)
+  ![Enter App -> 대시보드 진입](https://user-images.githubusercontent.com/20445415/197382885-23733a10-c1a6-46f3-a0d8-49c03b4b3bc5.gif)
     > 대시보드에서는 페어 상품 목록과 Defi 프로젝트 목록을 볼 수 있습니다.
 
 
 3. 수익률(APR)/유동성(TVL) 조회
   
-    3-1 수익률(APR) 조회
-    ![APR 조회](https://user-images.githubusercontent.com/20445415/197382956-d3135790-2818-47f2-a89d-547bd3d621a2.gif)
-    > 페어상품을 수익률(APR)이 높은 순으로 보여줍니다.
-페어 상품의 로고와 심볼, 프로젝트의 로고와 프로젝트 명, TVL, APR 정보를 볼 수 있습니다.
+  3-1 수익률(APR) 조회
+    
+   ![APR 조회](https://user-images.githubusercontent.com/20445415/197382956-d3135790-2818-47f2-a89d-547bd3d621a2.gif)
+  
+  > 페어상품을 수익률(APR)이 높은 순으로 보여줍니다.
+    페어 상품의 로고와 심볼, 프로젝트의 로고와 프로젝트 명, TVL, APR 정보를 볼 수 있습니다.
 
-    3-2 유동성(TVL) 규모 순 조회
-    ![TVL 조회](https://user-images.githubusercontent.com/20445415/197383090-1e373294-cb61-4843-af87-a69cbec590df.gif)
+  3-2 유동성(TVL) 규모 순 조회
+
+   ![TVL 조회](https://user-images.githubusercontent.com/20445415/197383090-1e373294-cb61-4843-af87-a69cbec590df.gif)
 
   - 예치 버튼 클릭 -> 예치 상품 페이지로 이동
-    ![예치 상품 페이지로 이동](https://user-images.githubusercontent.com/20445415/197382994-5330e628-fde5-4e2f-91da-aff5f8f779fc.gif)
+  ![예치 상품 페이지로 이동](https://user-images.githubusercontent.com/20445415/197382994-5330e628-fde5-4e2f-91da-aff5f8f779fc.gif)
     > 예치하고자 하는 페어 상품의 예치 버튼을 누르면 해당 링크로 새탭열기 합니다.
 
 4. 지갑 연결
