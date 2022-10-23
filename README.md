@@ -1,9 +1,13 @@
 # [Team Project] 
 
-- [프로젝트 소개](#프로젝트-소개)
-- [Role](#Role)
-- [Stack](#Stack)
-- [시연 영상](#시연-영상)
+- [[Team Project]](#team-project)
+  - [프로젝트 소개](#프로젝트-소개)
+    - [로드맵](#로드맵)
+    - [POD Token이란?](#pod-token이란)
+    - [POD Token Economy](#pod-token-economy)
+  - [Role](#role)
+  - [Stack](#stack)
+  - [시연 영상](#시연-영상)
 
 
 
@@ -146,19 +150,19 @@ ___
 3. 수익률(APR)/유동성(TVL) 조회
   
     3-1 수익률(APR) 조회
-![APR 조회](https://user-images.githubusercontent.com/20445415/197382956-d3135790-2818-47f2-a89d-547bd3d621a2.gif)
+    ![APR 조회](https://user-images.githubusercontent.com/20445415/197382956-d3135790-2818-47f2-a89d-547bd3d621a2.gif)
     > 페어상품을 수익률(APR)이 높은 순으로 보여줍니다.
 페어 상품의 로고와 심볼, 프로젝트의 로고와 프로젝트 명, TVL, APR 정보를 볼 수 있습니다.
 
     3-2 유동성(TVL) 규모 순 조회
-![TVL 조회](https://user-images.githubusercontent.com/20445415/197383090-1e373294-cb61-4843-af87-a69cbec590df.gif)
+    ![TVL 조회](https://user-images.githubusercontent.com/20445415/197383090-1e373294-cb61-4843-af87-a69cbec590df.gif)
 
   - 예치 버튼 클릭 -> 예치 상품 페이지로 이동
-![예치 상품 페이지로 이동](https://user-images.githubusercontent.com/20445415/197382994-5330e628-fde5-4e2f-91da-aff5f8f779fc.gif)
+    ![예치 상품 페이지로 이동](https://user-images.githubusercontent.com/20445415/197382994-5330e628-fde5-4e2f-91da-aff5f8f779fc.gif)
     > 예치하고자 하는 페어 상품의 예치 버튼을 누르면 해당 링크로 새탭열기 합니다.
 
 4. 지갑 연결
-![지갑연결전](https://user-images.githubusercontent.com/20445415/197383436-1b2fa245-b721-48e4-bcb8-598e661f4435.gif)
+    ![지갑연결전](https://user-images.githubusercontent.com/20445415/197383436-1b2fa245-b721-48e4-bcb8-598e661f4435.gif)
     > 지갑을 연결하기 전, 내비게이션 바의 Swap, Staking, Wallet 을 클릭하면 “지갑을 연결하세요!” 와 같은 알림창이 뜨며 해당 기능으로의 접근을 제한합니다.
 
     ![카이카스지갑연결](https://user-images.githubusercontent.com/20445415/197383454-f9cd7580-a179-46f9-a39e-b0b37e1826eb.gif)
@@ -166,7 +170,7 @@ ___
 지갑 연결이 완료된 후에 또 한 번 `지갑 아이콘` 을 클릭하면 *“Kaikas 연결완료”* 로 변경된 글자를 확인할 수 있습니다.
 
 5. 스왑/스테이킹
-![지갑자산확인](https://user-images.githubusercontent.com/20445415/197383496-761b37ba-d6f1-40c4-9ba4-506f7fbe806e.gif)
+    ![지갑자산확인](https://user-images.githubusercontent.com/20445415/197383496-761b37ba-d6f1-40c4-9ba4-506f7fbe806e.gif)
 
     ![지갑자산에서 스왑스테이킹이동](https://user-images.githubusercontent.com/20445415/197383519-3a85dea0-2bae-4d5c-9358-36d01ff28140.gif)
 
